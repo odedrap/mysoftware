@@ -1,5 +1,5 @@
 def welcome():
-    print ("New screen!!")
+    print ("New Screen!!")
 
 
 def click():
